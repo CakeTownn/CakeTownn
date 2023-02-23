@@ -1,0 +1,190 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Vanila Chocolate Cake",
+    "image": "chocolate.jpg",
+    "price": "250"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Rose Cake",
+    "image": "rosecake1.jpg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Vanila Cake",
+    "image": "vanilacake.jpg",
+    "price": "200"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Sweet Vanila Cake",
+    "image": "vanilacake2.jpg",
+    "price": "325"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Chocolate Cake",
+    "image": "chocolatecake5.jpg",
+    "price": "400"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Candy Chocolate Cake",
+    "image": "chocolatecake7.jpg",
+    "price": "350"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Rose Vanila Cake",
+    "image": "valentinecake.jpg",
+    "price": "325"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Strawberry Cake",
+    "image": "rosecake3.jpg",
+    "price": "250"
+  },{
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea0"
+    },
+    "name": "Coco-Vanila Cake",
+    "image": "cocovanilacake.jpg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736e1"
+    },
+    "name": "Soft Chocolate Cake",
+    "image": "chocolatecake2.jpg",
+    "price": "400"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea2"
+    },
+    "name": "Pure Rose Cake",
+    "image": "rosecake2.jpg",
+    "price": "350"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea1"
+    },
+    "name": "Chocolate Vanila Cake",
+    "image": "vanilacake1.jpg",
+    "price": "250"
+  },{
+    "_id": {
+      "$oid": "63f2fa5b4acddc0af6aef378"
+    },
+    "name": "Jelly Cake",
+    "image": "strawberrycake3.jpg",
+    "price": "425"
+  },{
+    "_id": {
+      "$oid": "63f2faae4acddc0af6aef37a"
+    },
+    "name": "Chocolate Cake",
+    "image": "chocolatecake.jpg",
+    "price": "350"
+  },{
+    "_id": {
+      "$oid": "63f2fae54acddc0af6aef37b"
+    },
+    "name": "Vanila Cake",
+    "image": "vanilacake3.jpg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "63f2fb014acddc0af6aef37c"
+    },
+    "name": "Brownie Cake",
+    "image": "browniecake.jpeg",
+    "price": "250"
+  },{
+    "_id": {
+      "$oid": "63f2fb194acddc0af6aef37d"
+    },
+    "name": "Special Anniversary Cake",
+    "image": "anniversarycake.jpg",
+    "price": "350"
+  },{
+    "_id": {
+      "$oid": "63f2fb324acddc0af6aef37e"
+    },
+    "name": "Chocolate Cake",
+    "image": "chocolatecake1.jpg",
+    "price": "325"
+  },{
+    "_id": {
+      "$oid": "63f2fb4d4acddc0af6aef37f"
+    },
+    "name": "God bharai Cake",
+    "image": "occationcake1.jpeg",
+    "price": "350"
+  },{
+    "_id": {
+      "$oid": "63f2fb6b4acddc0af6aef380"
+    },
+    "name": "New year Cake",
+    "image": "occationcake2.jpeg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "63f2fb884acddc0af6aef381"
+    },
+    "name": "Diwali Cake",
+    "image": "occationcake3.jpeg",
+    "price": "350"
+  },{
+    "_id": {
+      "$oid": "63f2fb9f4acddc0af6aef382"
+    },
+    "name": "Holi Cake",
+    "image": "occationcake4.jpeg",
+    "price": "420"
+  },{
+    "_id": {
+      "$oid": "63f2fbb44acddc0af6aef383"
+    },
+    "name": "Pongal Cake",
+    "image": "occationcake5.jpeg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "63f2fbce4acddc0af6aef384"
+    },
+    "name": "Diwali Cake",
+    "image": "occationcake6.jpeg",
+    "price": "370"
+  },{
+    "_id": {
+      "$oid": "63f2fbe34acddc0af6aef385"
+    },
+    "name": "Rakhi Cake",
+    "image": "occationcake7.jpeg",
+    "price": "300"
+  },{
+    "_id": {
+      "$oid": "63f2fbfd4acddc0af6aef386"
+    },
+    "name": "Father's day Cake",
+    "image": "occationcake8.jpeg",
+    "price": "250"
+  },{
+    "_id": {
+      "$oid": "63f2fc134acddc0af6aef387"
+    },
+    "name": "Janmashtami Cake",
+    "image": "occationcake9.jpeg",
+    "price": "350"
+  }]
